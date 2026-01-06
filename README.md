@@ -44,16 +44,6 @@ Explicitly Excluded:
 
 ---
 
-## Folder Structure
-
-GZ_STL_Ph3/
-├── data/ # STL files
-├── mesh/ # STL reader, validation, normalization
-├── solver/ # Hydrostatics (Phase 2 logic)
-└── main.py # Driver script
-
----
-
 ## How It Works
 
 1. STL file is read (ASCII or binary)
